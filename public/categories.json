@@ -1,0 +1,32 @@
+
+[
+    {
+      "product_id": 1,
+      "product_title": "Wireless Noise Cancelling Headphones",
+      "category": "Phones"
+    },
+    
+    {
+      "product_id": 7,
+      "product_title": "High-Performance Laptop",
+      "category": "Laptops"
+    },
+    
+    {
+      "product_id": 9,
+      "product_title": "MacBook Air M1",
+      "category": "MacBook"
+    },
+   
+    {
+      "product_id": 12,
+      "product_title": "iPhone 13 Mini",
+      "category": "iPhone"
+    },
+    {
+      "product_id": 16,
+      "product_title": "Rolex",
+      "category": "smart watches"
+    }
+  ]
+
